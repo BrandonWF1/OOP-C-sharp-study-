@@ -1,0 +1,10 @@
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\bin\Debug\Laba2Nesterov402.exe.config
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\bin\Debug\Laba2Nesterov402.exe
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\bin\Debug\Laba2Nesterov402.pdb
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\obj\Debug\Laba2Nesterov402.csprojAssemblyReference.cache
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\obj\Debug\Laba2Nesterov402.Form1.resources
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\obj\Debug\Laba2Nesterov402.Properties.Resources.resources
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\obj\Debug\Laba2Nesterov402.csproj.GenerateResource.cache
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\obj\Debug\Laba2Nesterov402.csproj.CoreCompileInputs.cache
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\obj\Debug\Laba2Nesterov402.exe
+C:\Users\nsavv\source\repos\Laba2Nesterov402\Laba2Nesterov402\obj\Debug\Laba2Nesterov402.pdb
