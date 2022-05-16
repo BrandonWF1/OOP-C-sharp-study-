@@ -1,0 +1,10 @@
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\bin\Debug\Nesterov402Lab1.exe.config
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\bin\Debug\Nesterov402Lab1.exe
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\bin\Debug\Nesterov402Lab1.pdb
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\obj\Debug\Nesterov402Lab1.csprojAssemblyReference.cache
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\obj\Debug\Nesterov402Lab1.Form1.resources
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\obj\Debug\Nesterov402Lab1.Properties.Resources.resources
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\obj\Debug\Nesterov402Lab1.csproj.GenerateResource.cache
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\obj\Debug\Nesterov402Lab1.csproj.CoreCompileInputs.cache
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\obj\Debug\Nesterov402Lab1.exe
+C:\Users\nsavv\source\repos\Nesterov402Lab1\Nesterov402Lab1\obj\Debug\Nesterov402Lab1.pdb
