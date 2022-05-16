@@ -1,0 +1,10 @@
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\obj\Debug\ConvertationWFANesterov402.csprojAssemblyReference.cache
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\obj\Debug\ConvertationWFANesterov402.Form1.resources
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\obj\Debug\ConvertationWFANesterov402.Properties.Resources.resources
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\obj\Debug\ConvertationWFANesterov402.csproj.GenerateResource.cache
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\obj\Debug\ConvertationWFANesterov402.csproj.CoreCompileInputs.cache
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\bin\Debug\ConvertationWFANesterov402.exe.config
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\bin\Debug\ConvertationWFANesterov402.exe
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\bin\Debug\ConvertationWFANesterov402.pdb
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\obj\Debug\ConvertationWFANesterov402.exe
+C:\Users\nsavv\source\repos\ConvertationWFANesterov402\ConvertationWFANesterov402\obj\Debug\ConvertationWFANesterov402.pdb

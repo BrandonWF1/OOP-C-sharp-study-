@@ -1,0 +1,10 @@
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\bin\Debug\Lab3FigureVar6Nesterov402.exe.config
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\bin\Debug\Lab3FigureVar6Nesterov402.exe
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\bin\Debug\Lab3FigureVar6Nesterov402.pdb
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\obj\Debug\Lab3FigureVar6Nesterov402.csprojAssemblyReference.cache
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\obj\Debug\Lab3FigureVar6Nesterov402.Form1.resources
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\obj\Debug\Lab3FigureVar6Nesterov402.Properties.Resources.resources
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\obj\Debug\Lab3FigureVar6Nesterov402.csproj.GenerateResource.cache
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\obj\Debug\Lab3FigureVar6Nesterov402.csproj.CoreCompileInputs.cache
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\obj\Debug\Lab3FigureVar6Nesterov402.exe
+C:\Users\nsavv\source\repos\Lab3FigureVar6Nesterov402\Lab3FigureVar6Nesterov402\obj\Debug\Lab3FigureVar6Nesterov402.pdb

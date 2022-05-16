@@ -1,0 +1,20 @@
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\bin\Debug\lab 3, v1.exe.config
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\bin\Debug\lab 3, v1.exe
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\bin\Debug\lab 3, v1.pdb
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.csprojAssemblyReference.cache
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\obj\Debug\lab_3__v1.Form1.resources
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\obj\Debug\lab_3__v1.Properties.Resources.resources
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.csproj.GenerateResource.cache
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.csproj.CoreCompileInputs.cache
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.exe
+D:\a\ООАиП\HEALP\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.pdb
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\bin\Debug\lab 3, v1.exe.config
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\bin\Debug\lab 3, v1.exe
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\bin\Debug\lab 3, v1.pdb
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.csprojAssemblyReference.cache
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\obj\Debug\lab_3__v1.Form1.resources
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\obj\Debug\lab_3__v1.Properties.Resources.resources
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.csproj.GenerateResource.cache
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.csproj.CoreCompileInputs.cache
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.exe
+C:\Users\nsavv\source\repos\lab 3, v1\lab 3, v1\obj\Debug\lab 3, v1.pdb
