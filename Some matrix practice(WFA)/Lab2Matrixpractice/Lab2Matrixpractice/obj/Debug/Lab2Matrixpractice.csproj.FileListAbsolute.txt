@@ -1,0 +1,20 @@
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\bin\Debug\Lab2Matrixpractice.exe.config
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\bin\Debug\Lab2Matrixpractice.exe
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\bin\Debug\Lab2Matrixpractice.pdb
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.csproj.AssemblyReference.cache
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.Form1.resources
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.Properties.Resources.resources
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.csproj.GenerateResource.cache
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.csproj.CoreCompileInputs.cache
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.exe
+U:\ООП\Ochn\Lab5 or smth\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.pdb
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\bin\Debug\Lab2Matrixpractice.exe.config
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\bin\Debug\Lab2Matrixpractice.exe
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\bin\Debug\Lab2Matrixpractice.pdb
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.csprojAssemblyReference.cache
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.Form1.resources
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.Properties.Resources.resources
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.csproj.GenerateResource.cache
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.csproj.CoreCompileInputs.cache
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.exe
+C:\Users\nsavv\source\repos\Lab2Matrixpractice\Lab2Matrixpractice\obj\Debug\Lab2Matrixpractice.pdb
