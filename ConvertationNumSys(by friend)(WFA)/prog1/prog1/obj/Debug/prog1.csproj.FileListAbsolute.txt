@@ -1,0 +1,20 @@
+D:\a\ООПиА\prog1\prog1\bin\Debug\prog1.exe.config
+D:\a\ООПиА\prog1\prog1\bin\Debug\prog1.exe
+D:\a\ООПиА\prog1\prog1\bin\Debug\prog1.pdb
+D:\a\ООПиА\prog1\prog1\obj\Debug\prog1.csprojAssemblyReference.cache
+D:\a\ООПиА\prog1\prog1\obj\Debug\prog1.Form1.resources
+D:\a\ООПиА\prog1\prog1\obj\Debug\prog1.Properties.Resources.resources
+D:\a\ООПиА\prog1\prog1\obj\Debug\prog1.csproj.GenerateResource.cache
+D:\a\ООПиА\prog1\prog1\obj\Debug\prog1.csproj.CoreCompileInputs.cache
+D:\a\ООПиА\prog1\prog1\obj\Debug\prog1.exe
+D:\a\ООПиА\prog1\prog1\obj\Debug\prog1.pdb
+U:\ООАип\Distant Domashka\prog1\prog1\bin\Debug\prog1.exe.config
+U:\ООАип\Distant Domashka\prog1\prog1\bin\Debug\prog1.exe
+U:\ООАип\Distant Domashka\prog1\prog1\bin\Debug\prog1.pdb
+U:\ООАип\Distant Domashka\prog1\prog1\obj\Debug\prog1.Form1.resources
+U:\ООАип\Distant Domashka\prog1\prog1\obj\Debug\prog1.Properties.Resources.resources
+U:\ООАип\Distant Domashka\prog1\prog1\obj\Debug\prog1.csproj.GenerateResource.cache
+U:\ООАип\Distant Domashka\prog1\prog1\obj\Debug\prog1.csproj.CoreCompileInputs.cache
+U:\ООАип\Distant Domashka\prog1\prog1\obj\Debug\prog1.exe
+U:\ООАип\Distant Domashka\prog1\prog1\obj\Debug\prog1.pdb
+U:\ООАип\Distant Domashka\prog1\prog1\obj\Debug\prog1.csproj.AssemblyReference.cache
